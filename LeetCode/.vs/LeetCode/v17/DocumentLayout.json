@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Berat\\source\\repos\\LeetCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|c:\\users\\berat\\source\\repos\\leetcode\\leetcode\\challenges\\printchallanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\challenges\\printchallanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|c:\\users\\berat\\source\\repos\\leetcode\\leetcode\\challenges\\removeduplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\challenges\\removeduplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|c:\\users\\berat\\source\\repos\\leetcode\\leetcode\\challenges\\mergetwolists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\challenges\\mergetwolists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|c:\\users\\berat\\source\\repos\\leetcode\\leetcode\\challenges\\maxwidthofverticalareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\challenges\\maxwidthofverticalareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|c:\\users\\berat\\source\\repos\\leetcode\\leetcode\\challenges\\maximumnumberofwords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\challenges\\maximumnumberofwords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|c:\\users\\berat\\source\\repos\\leetcode\\leetcode\\challenges\\longestcommonprefixs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\challenges\\longestcommonprefixs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|c:\\users\\berat\\source\\repos\\leetcode\\leetcode\\challenges\\kadanealgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\challenges\\kadanealgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|c:\\users\\berat\\source\\repos\\leetcode\\leetcode\\challenges\\htmlelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\challenges\\htmlelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|c:\\users\\berat\\source\\repos\\leetcode\\leetcode\\challenges\\intersectionoftwoarrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\challenges\\intersectionoftwoarrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|c:\\users\\berat\\source\\repos\\leetcode\\leetcode\\challenges\\backtracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\challenges\\backtracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|c:\\users\\berat\\source\\repos\\leetcode\\leetcode\\challenges\\adjacencymatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\challenges\\adjacencymatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|c:\\users\\berat\\source\\repos\\leetcode\\leetcode\\challenges\\adjacencylistgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\challenges\\adjacencylistgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|c:\\users\\berat\\source\\repos\\leetcode\\leetcode\\challenges\\addtwonumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\challenges\\addtwonumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|c:\\users\\berat\\source\\repos\\leetcode\\leetcode\\challenges\\plusone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\challenges\\plusone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|c:\\users\\berat\\source\\repos\\leetcode\\leetcode\\challenges\\clonegraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\challenges\\clonegraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|c:\\users\\berat\\source\\repos\\leetcode\\leetcode\\challenges\\threesum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\challenges\\threesum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|c:\\users\\berat\\source\\repos\\leetcode\\leetcode\\challenges\\topkfrequentsol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\challenges\\topkfrequentsol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|c:\\users\\berat\\source\\repos\\leetcode\\leetcode\\challenges\\twosum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\challenges\\twosum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|c:\\users\\berat\\source\\repos\\leetcode\\leetcode\\challenges\\treeconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\challenges\\treeconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|c:\\users\\berat\\source\\repos\\leetcode\\leetcode\\challenges\\triplefibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\challenges\\triplefibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|c:\\users\\berat\\source\\repos\\leetcode\\leetcode\\challenges\\slidingwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\challenges\\slidingwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|c:\\users\\berat\\source\\repos\\leetcode\\leetcode\\challenges\\citytraffic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\challenges\\citytraffic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|c:\\users\\berat\\source\\repos\\leetcode\\leetcode\\challenges\\rotatearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\challenges\\rotatearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|c:\\users\\berat\\source\\repos\\leetcode\\leetcode\\challenges\\equivalentkeypresses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\challenges\\equivalentkeypresses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|c:\\users\\berat\\source\\repos\\leetcode\\leetcode\\challenges\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\challenges\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|c:\\users\\berat\\source\\repos\\leetcode\\leetcode\\challenges\\findtheindexofthefirstoccurenceinastring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\challenges\\findtheindexofthefirstoccurenceinastring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|c:\\users\\berat\\source\\repos\\leetcode\\leetcode\\challenges\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\challenges\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|c:\\users\\berat\\source\\repos\\leetcode\\leetcode\\challenges\\isvalid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69BE70-6908-40C3-B5BE-06F592E5B044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\challenges\\isvalid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrintChallanges.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\PrintChallanges.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Challenges\\PrintChallanges.cs",
+              "ToolTip": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\PrintChallanges.cs",
+              "RelativeToolTip": "LeetCode\\Challenges\\PrintChallanges.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAM4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:13:02.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IntersectionOfTwoArrays.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\IntersectionOfTwoArrays.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Challenges\\IntersectionOfTwoArrays.cs",
+              "ToolTip": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\IntersectionOfTwoArrays.cs",
+              "RelativeToolTip": "LeetCode\\Challenges\\IntersectionOfTwoArrays.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T01:54:53.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KadaneAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\KadaneAlgorithm.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Challenges\\KadaneAlgorithm.cs",
+              "ToolTip": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\KadaneAlgorithm.cs",
+              "RelativeToolTip": "LeetCode\\Challenges\\KadaneAlgorithm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:09:55.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LongestCommonPrefixs.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\LongestCommonPrefixs.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Challenges\\LongestCommonPrefixs.cs",
+              "ToolTip": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\LongestCommonPrefixs.cs",
+              "RelativeToolTip": "LeetCode\\Challenges\\LongestCommonPrefixs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:25:49.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Maximumnumberofwords.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\Maximumnumberofwords.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Challenges\\Maximumnumberofwords.cs",
+              "ToolTip": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\Maximumnumberofwords.cs",
+              "RelativeToolTip": "LeetCode\\Challenges\\Maximumnumberofwords.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:50:48.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MaxWidthOfVerticalAreas.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\MaxWidthOfVerticalAreas.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Challenges\\MaxWidthOfVerticalAreas.cs",
+              "ToolTip": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\MaxWidthOfVerticalAreas.cs",
+              "RelativeToolTip": "LeetCode\\Challenges\\MaxWidthOfVerticalAreas.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T00:51:44.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MergeTwoLists.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\MergeTwoLists.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Challenges\\MergeTwoLists.cs",
+              "ToolTip": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\MergeTwoLists.cs",
+              "RelativeToolTip": "LeetCode\\Challenges\\MergeTwoLists.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:20:56.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlusOne.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\PlusOne.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Challenges\\PlusOne.cs",
+              "ToolTip": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\PlusOne.cs",
+              "RelativeToolTip": "LeetCode\\Challenges\\PlusOne.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:51:15.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RemoveDuplicates.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\RemoveDuplicates.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Challenges\\RemoveDuplicates.cs",
+              "ToolTip": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\RemoveDuplicates.cs",
+              "RelativeToolTip": "LeetCode\\Challenges\\RemoveDuplicates.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T02:55:10.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HtmlElements.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\HtmlElements.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Challenges\\HtmlElements.cs",
+              "ToolTip": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\HtmlElements.cs",
+              "RelativeToolTip": "LeetCode\\Challenges\\HtmlElements.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T12:13:54.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BackTracking.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\BackTracking.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Challenges\\BackTracking.cs",
+              "ToolTip": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\BackTracking.cs",
+              "RelativeToolTip": "LeetCode\\Challenges\\BackTracking.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAYwDAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T14:20:52.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdjacencyMatrix.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\AdjacencyMatrix.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Challenges\\AdjacencyMatrix.cs",
+              "ToolTip": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\AdjacencyMatrix.cs",
+              "RelativeToolTip": "LeetCode\\Challenges\\AdjacencyMatrix.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:31:50.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CloneGraph.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\CloneGraph.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Challenges\\CloneGraph.cs",
+              "ToolTip": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\CloneGraph.cs",
+              "RelativeToolTip": "LeetCode\\Challenges\\CloneGraph.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:22:43.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdjacencyListGraph.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\AdjacencyListGraph.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Challenges\\AdjacencyListGraph.cs",
+              "ToolTip": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\AdjacencyListGraph.cs",
+              "RelativeToolTip": "LeetCode\\Challenges\\AdjacencyListGraph.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwHgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:57:43.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddTwoNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\AddTwoNumbers.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Challenges\\AddTwoNumbers.cs",
+              "ToolTip": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\AddTwoNumbers.cs",
+              "RelativeToolTip": "LeetCode\\Challenges\\AddTwoNumbers.cs",
+              "ViewState": "AQIAAB8BAAAAAAAAAAAAAA4BAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:20:42.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ThreeSum.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\ThreeSum.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Challenges\\ThreeSum.cs",
+              "ToolTip": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\ThreeSum.cs",
+              "RelativeToolTip": "LeetCode\\Challenges\\ThreeSum.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T07:48:05.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TopKFrequentSol.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\TopKFrequentSol.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Challenges\\TopKFrequentSol.cs",
+              "ToolTip": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\TopKFrequentSol.cs",
+              "RelativeToolTip": "LeetCode\\Challenges\\TopKFrequentSol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T02:55:10.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TwoSum.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\TwoSum.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Challenges\\TwoSum.cs",
+              "ToolTip": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\TwoSum.cs",
+              "RelativeToolTip": "LeetCode\\Challenges\\TwoSum.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:27:52.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TreeConstructor.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\TreeConstructor.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Challenges\\TreeConstructor.cs",
+              "ToolTip": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\TreeConstructor.cs",
+              "RelativeToolTip": "LeetCode\\Challenges\\TreeConstructor.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T02:55:08.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TripleFibonacci.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\TripleFibonacci.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Challenges\\TripleFibonacci.cs",
+              "ToolTip": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\TripleFibonacci.cs",
+              "RelativeToolTip": "LeetCode\\Challenges\\TripleFibonacci.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T23:59:03.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SlidingWindow.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\SlidingWindow.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Challenges\\SlidingWindow.cs",
+              "ToolTip": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\SlidingWindow.cs",
+              "RelativeToolTip": "LeetCode\\Challenges\\SlidingWindow.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAAAI4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:26:08.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CityTraffic.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\CityTraffic.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Challenges\\CityTraffic.cs",
+              "ToolTip": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\CityTraffic.cs",
+              "RelativeToolTip": "LeetCode\\Challenges\\CityTraffic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T18:41:14.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RotateArray.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\RotateArray.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Challenges\\RotateArray.cs",
+              "ToolTip": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\RotateArray.cs",
+              "RelativeToolTip": "LeetCode\\Challenges\\RotateArray.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T22:57:45.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FindTheIndexOfTheFirstOccurenceInAString.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\FindTheIndexOfTheFirstOccurenceInAString.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Challenges\\FindTheIndexOfTheFirstOccurenceInAString.cs",
+              "ToolTip": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\FindTheIndexOfTheFirstOccurenceInAString.cs",
+              "RelativeToolTip": "LeetCode\\Challenges\\FindTheIndexOfTheFirstOccurenceInAString.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:23:41.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BinaryTree.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\BinaryTree.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Challenges\\BinaryTree.cs",
+              "ToolTip": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\BinaryTree.cs",
+              "RelativeToolTip": "LeetCode\\Challenges\\BinaryTree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T23:27:37.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EquivalentKeypresses.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\EquivalentKeypresses.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Challenges\\EquivalentKeypresses.cs",
+              "ToolTip": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\EquivalentKeypresses.cs",
+              "RelativeToolTip": "LeetCode\\Challenges\\EquivalentKeypresses.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:51:50.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BinarySearch.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\BinarySearch.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Challenges\\BinarySearch.cs",
+              "ToolTip": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\BinarySearch.cs",
+              "RelativeToolTip": "LeetCode\\Challenges\\BinarySearch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:35:02.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IsValid.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\IsValid.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Challenges\\IsValid.cs",
+              "ToolTip": "C:\\Users\\Berat\\source\\repos\\LeetCode\\LeetCode\\Challenges\\IsValid.cs",
+              "RelativeToolTip": "LeetCode\\Challenges\\IsValid.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:15:30.598Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
